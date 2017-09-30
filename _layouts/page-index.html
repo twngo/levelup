@@ -1,0 +1,11 @@
+---
+layout: content-page
+---
+<h2>資源</h2>
+  {% for node in site.pages %}
+    {% if page.title == node.parent %}
+      <h3>{{ node.title }}</h3>
+      <p>{{ node.summary }}</p>
+      <a class="continue-to-resource-link" href="{{ site.baseurl }}{{ node.url }}">繼續進入完整資源 >></a>
+    {% endif %}
+  {% endfor %}

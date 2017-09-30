@@ -1,0 +1,75 @@
+---
+layout: default
+---
+<section class="section-block">
+  {% include breadcrumb.html %}
+  <h1>{{ page.title }}</h1>
+  {% unless page.author == nil or page.date == nil or page.summary == nil %}
+  <p><b>Credits</b> <span class="page-author"> {{ page.author }} </span>
+     &ensp; <b>最近更新</b>  {{ page.date | date: "%m/%d/%Y" }} </p>
+  <p>{{ page.summary }}</p>
+  {% endunless %}
+</section>
+
+<section class="section-block">
+  {{ content }}
+</section>
+
+<section class="section-block">
+  <ul class="session">
+  <h3>活動與討論 </h3>
+  {% for item in page.activity %}
+    {% if item.name == nil or item.url == nil %}
+    <li>N/A</li>
+    {% endif %}
+    {% unless item.name == nil or item.url == nil %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  </ul>
+
+  <ul class="session">
+  <h3>灌輸 </h3>
+  {% for item in page.input %}
+    {% if item.name == nil or item.url == nil %}
+    <li>N/A</li>
+    {% endif %}
+    {% unless item.name == nil or item.url == nil %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  </ul>
+
+  <ul class="session">
+  <h3>深化 </h3>
+  {% for item in page.deepening %}
+    {% if item.name == nil or item.url == nil %}
+    <li>N/A</li>
+    {% endif %}
+    {% unless item.name == nil or item.url == nil %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  </ul>
+
+  <ul class="session">
+  <h3>綜合 </h3>
+  {% for item in page.synthesis %}
+    {% if item.name == nil or item.url == nil %}
+    <li>N/A</li>
+    {% endif %}
+    {% unless item.name == nil or item.url == nil %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  </ul>
+  <p>&nbsp</p>
+</section>
+
+<section class="section-block">
+    <h4>對此內容有意見？是否有更新之必要？</h4>
+    <p>欲在本頁留下反饋評論，請利用右上角的<a href="/community/contribute/#how-can-i-provide-feedback">Hypothes.is</a> 工具欄。</p>
+    <h4>有欲和其它訓練員分享的內容嗎？</h4>
+       <p>請來信到<a href="mailto:levelup@riseup.net">levelup@riseup.net</a>（<a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE">GPG 公鑰</a>）或是了解本社群的<a href="/community/contribute/#how-can-i-contribute-content">參與貢獻</a>指南。</p>
+    <p>&nbsp</p>
+</section>

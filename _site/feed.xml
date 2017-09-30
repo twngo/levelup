@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-30T09:50:11+08:00</updated><id>http://localhost:4000/</id><title type="html">LevelUp</title><subtitle>Resources for the global digital safety training community 數位安全訓練社群的共享圈地
+</subtitle><entry><title type="html">LevelUp （紙糊的）中文網站上線！</title><link href="http://localhost:4000/jekyll/update/2017/09/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="LevelUp （紙糊的）中文網站上線！" /><published>2017-09-30T08:32:25+08:00</published><updated>2017-09-30T08:32:25+08:00</updated><id>http://localhost:4000/jekyll/update/2017/09/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/09/30/welcome-to-jekyll.html">&lt;p&gt;去年最花時間投入的二個在地化翻譯專案，其實到頭來回顧，都是蠻好的一場失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。
+但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落地終結。&lt;/p&gt;
+
+&lt;p&gt;除了 Umbrella-app 之外，另一個就是&lt;a href=&quot;https://level-up.cc&quot;&gt;LevelUp&lt;/a&gt;（請見去年所留下的記錄&lt;a href=&quot;http://self.jxtsai.info/2016/08/level-up.html&quot;&gt;數位安全訓練員教材中文化初稿&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;最近整理完 &lt;a href=&quot;https://github.com/twngo/Umbrella_content&quot;&gt;Umbrella-app&lt;/a&gt; 之後，以為自己對於 Jekyll 這個靜態網頁產生器更熟悉了，可以再來替 Level-Up 「撿骨」一下。不過這個檢骨工程不太順利，原來整套放在 transifex 上的原文，大約只佔了20%(純「感覺」的推估)，更何況因為 LevelUp 強調自身為一份與時俱進的文件，所以….(雖然網站內容一年多沒更新了)，許多文件必須重頭做起。&lt;/p&gt;
+
+&lt;p&gt;level up 的網站內容架構是以：1)身為安全訓練員 you-the-trainer　2)活動之前　before-an-event 3)活動之後　after-an-event 4)上課內容　curriculum 5)支援社群　community ，這五大單元為主，五大單元底下再分枝出：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. you the trainer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;be a better trainer&lt;/li&gt;
+  &lt;li&gt;first 3 sessions of your event
+    &lt;ul&gt;
+      &lt;li&gt;developing-a-shared-brain&lt;/li&gt;
+      &lt;li&gt;developing-shared-agreements&lt;/li&gt;
+      &lt;li&gt;sharing-your-story&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;golden rules of effective training　（Ｏ）&lt;/li&gt;
+  &lt;li&gt;how to handle surprises during training　&lt;/li&gt;
+  &lt;li&gt;ice breakers and energizers&lt;/li&gt;
+  &lt;li&gt;roles and responsibilities of a digital security trainer　 （Ｏ）&lt;/li&gt;
+  &lt;li&gt;setting expectations for participants organizers and yourself （V）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2. before an event&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;levelups approach to adult learning （Ｏ）&lt;/li&gt;
+  &lt;li&gt;using levelup trainers curriculum （Ｏ）&lt;/li&gt;
+  &lt;li&gt;planning your event agenda （Ｏ）
+    &lt;ul&gt;
+      &lt;li&gt;agenda checklist （Ｏ）&lt;/li&gt;
+      &lt;li&gt;the participant driven agenda（Ｏ）&lt;/li&gt;
+      &lt;li&gt;trainer coordination checklist（Ｏ）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;planning your training event（Ｏ）
+    &lt;ul&gt;
+      &lt;li&gt;go dontgo decision　（Ｏ）&lt;/li&gt;
+      &lt;li&gt;initial contact assessing need&lt;/li&gt;
+      &lt;li&gt;context risk analysis　（Ｏ）&lt;/li&gt;
+      &lt;li&gt;analysis design considerations&lt;/li&gt;
+      &lt;li&gt;communications content planning&lt;/li&gt;
+      &lt;li&gt;orientation preparation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;preparing sessions using adids (Ｏ)&lt;/li&gt;
+  &lt;li&gt;psychosocial underpinnings of security training
+    &lt;ul&gt;
+      &lt;li&gt;getting grips with fear&lt;/li&gt;
+      &lt;li&gt;anxiety pressure gauge&lt;/li&gt;
+      &lt;li&gt;raise lower pressure&lt;/li&gt;
+      &lt;li&gt;traumatic stress reactions&lt;/li&gt;
+      &lt;li&gt;emotional resilience-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;creating safe spaces （Ｏ）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3. curriculum&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;malware protection
+    &lt;ul&gt;
+      &lt;li&gt;safer software updating (ADIDS)&lt;/li&gt;
+      &lt;li&gt;using antivirus tools (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;mobile safety
+    &lt;ul&gt;
+      &lt;li&gt;how mobile networks work (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;protecting data
+    &lt;ul&gt;
+      &lt;li&gt;creating and managing strong passwords (ADIDS)&lt;/li&gt;
+      &lt;li&gt;data backup basics (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;safer browsing
+    &lt;ul&gt;
+      &lt;li&gt;anonymity and circumvention (ADIDS)&lt;/li&gt;
+      &lt;li&gt;https ssl (ADIDS)&lt;/li&gt;
+      &lt;li&gt;identity protection privacy (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;safer communication
+    &lt;ul&gt;
+      &lt;li&gt;pgp gpg email encryption (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;safer workspaces
+    &lt;ul&gt;
+      &lt;li&gt;Tails (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;social media safety （V）&lt;/li&gt;
+  &lt;li&gt;social media safety awareness (ADIDS)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;4. after an event （Ｏ）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. community （Ｏ）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;畫（Ｏ）的部份完成中文初稿。至於剩下，暫時沒什麼心情或急迫性想弄它，就先放著吧….&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-問題&quot;&gt;jekyll 問題&lt;/h3&gt;
+
+&lt;p&gt;levelup.cc 使用　jekyll　建置，所以我下載了原始文檔後（或 fork 原資源庫），只須把解壓過的檔案全部複製到本地電腦上新建、空白的 jekyll 專案上即可快速順利克隆出同樣外觀模版的網站。不過一直查不出為何在自動把 MarkDown 轉成 html 時，(/communiyt/community.md) 卻傳回無法找到其對應的鍵：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Error reading file 
+ ..../levelup/community/community.md: (&amp;lt;unknown&amp;gt;): 
+did not find expected key while parsing a block mapping ...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;所以無法順利讓 communiyt及其底下的文章成功地出現上方選單位置（雖然有轉成 html）。於是乎就賭氣地用了手動貼上的笨方法，以紙糊的方式把這個中文網站做了出來　Σ(￣□￣；&lt;/p&gt;
+
+&lt;h3 id=&quot;瀏覽器呈現&quot;&gt;瀏覽器呈現&lt;/h3&gt;
+&lt;p&gt;不曉得是否因為原模版設計者未考慮不同瀏覽器底下的呈現效果，有些網頁在 FireFox 底下會「被擠出來」，用 Chrome 就順眼許多。就連這篇文章（post）在 Chrome 底下也是亂七八糟(╯-_-)╯ ~╩╩　，若不是….還蠻想另換個主題。（說說碎念而已，別怕。）&lt;/p&gt;</content><author><name></name></author><summary type="html">去年最花時間投入的二個在地化翻譯專案，其實到頭來回顧，都是蠻好的一場失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。 但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落地終結。</summary></entry></feed>

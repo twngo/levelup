@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<section class="section-block">
+  {% include breadcrumb.html %}
+  <h1>{{ page.title }}</h1>
+  {% unless page.author == nil or page.date == nil or page.summary == nil %}
+  <p><b>Credits</b> <span class="page-author"> {{ page.author }} </span>
+     &ensp; <b>最近更新</b>  {{ page.date | date: "%m/%d/%Y" }} </p>
+  <p>{{ page.summary }}</p>
+  {% endunless %}
+</section>
+
+{% if page.adids != nil %}
+<section class="section-block">
+  <p><h4>ADIDS 元素 </h4>{{ page.adids }}</p>
+  <p><h4>上層主題 </h4>{{ page.parent }}</p>
+  <p><h4>花費時間 </h4>{{ page.duration }}</p>
+</section>
+{% endif %}
+
+<section class="section-block">
+  {{ content }}
+</section>
+
+<section class="section-block">
+    <h5>對此內容有意見？是否有更新之必要？</h5>
+    <p>欲在本頁留下筆記評論，請利用右上角的 <a href="/community/contribute/#annotate-and-discuss-content-with-hypothesis">Hypothes.is</a> 工具欄</p>
+    <h5>有欲和其它訓練員分享的內容嗎？</h5>
+    <p>請來信到<a href="mailto:levelup@riseup.net">levelup@riseup.net</a>（<a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE">GPG 公鑰</a>）或是了解本社群的<a href="/community/contribute/#how-can-i-contribute-content">參與貢獻</a>指南。</p>
+    <p>&nbsp</p>
+</section>
+
+
