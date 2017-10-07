@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "LevelUp （紙糊的）中文網站上線！"
-date:   2017-09-30 08:32:25 +0800
-categories: jekyll update
+title:  "LevelUp 中文網站上線！10/07更新"
+date:   2017-10-07 08:32:25 +0800
+categories: levelup update
 ---
 
 去年最花時間投入的二個在地化翻譯專案，到頭來回顧，都是蠻好的失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。
@@ -35,12 +35,12 @@ level up 的網站內容架構是以：1)身為安全訓練員 you-the-trainer�
   - trainer coordination checklist（Ｏ）
 - planning your training event（Ｏ）
   - go dontgo decision　（Ｏ）
-  - initial contact assessing need
+  - initial contact assessing need （Ｏ）
   - context risk analysis　（Ｏ）
-  - analysis design considerations
-  - communications content planning
+  - analysis design considerations （Ｏ）
+  - communications content planning （Ｏ）
   - orientation preparation
-- preparing sessions using adids (Ｏ)
+- preparing sessions using ADIDS （Ｏ）
 - psychosocial underpinnings of security training
   - getting grips with fear
   - anxiety pressure gauge

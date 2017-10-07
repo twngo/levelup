@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-30T09:50:11+08:00</updated><id>http://localhost:4000/</id><title type="html">LevelUp</title><subtitle>Resources for the global digital safety training community 數位安全訓練社群的共享圈地
-</subtitle><entry><title type="html">LevelUp （紙糊的）中文網站上線！</title><link href="http://localhost:4000/jekyll/update/2017/09/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="LevelUp （紙糊的）中文網站上線！" /><published>2017-09-30T08:32:25+08:00</published><updated>2017-09-30T08:32:25+08:00</updated><id>http://localhost:4000/jekyll/update/2017/09/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/09/30/welcome-to-jekyll.html">&lt;p&gt;去年最花時間投入的二個在地化翻譯專案，其實到頭來回顧，都是蠻好的一場失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。
-但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落地終結。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-07T13:14:25+08:00</updated><id>http://localhost:4000/</id><title type="html">LevelUp</title><subtitle>Resources for the global digital safety training community 數位安全訓練社群的共享圈地
+</subtitle><entry><title type="html">LevelUp 中文網站上線！10/07更新</title><link href="http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese.html" rel="alternate" type="text/html" title="LevelUp 中文網站上線！10/07更新" /><published>2017-10-07T08:32:25+08:00</published><updated>2017-10-07T08:32:25+08:00</updated><id>http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese</id><content type="html" xml:base="http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese.html">&lt;p&gt;去年最花時間投入的二個在地化翻譯專案，到頭來回顧，都是蠻好的失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。
+但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落終結。&lt;/p&gt;
 
 &lt;p&gt;除了 Umbrella-app 之外，另一個就是&lt;a href=&quot;https://level-up.cc&quot;&gt;LevelUp&lt;/a&gt;（請見去年所留下的記錄&lt;a href=&quot;http://self.jxtsai.info/2016/08/level-up.html&quot;&gt;數位安全訓練員教材中文化初稿&lt;/a&gt;）。&lt;/p&gt;
 
@@ -39,14 +39,14 @@
   &lt;li&gt;planning your training event（Ｏ）
     &lt;ul&gt;
       &lt;li&gt;go dontgo decision　（Ｏ）&lt;/li&gt;
-      &lt;li&gt;initial contact assessing need&lt;/li&gt;
+      &lt;li&gt;initial contact assessing need （Ｏ）&lt;/li&gt;
       &lt;li&gt;context risk analysis　（Ｏ）&lt;/li&gt;
-      &lt;li&gt;analysis design considerations&lt;/li&gt;
-      &lt;li&gt;communications content planning&lt;/li&gt;
+      &lt;li&gt;analysis design considerations （Ｏ）&lt;/li&gt;
+      &lt;li&gt;communications content planning （Ｏ）&lt;/li&gt;
       &lt;li&gt;orientation preparation&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;preparing sessions using adids (Ｏ)&lt;/li&gt;
+  &lt;li&gt;preparing sessions using ADIDS （Ｏ）&lt;/li&gt;
   &lt;li&gt;psychosocial underpinnings of security training
     &lt;ul&gt;
       &lt;li&gt;getting grips with fear&lt;/li&gt;
@@ -115,7 +115,7 @@ did not find expected key while parsing a block mapping ...
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;所以無法順利讓 communiyt及其底下的文章成功地出現上方選單位置（雖然有轉成 html）。於是乎就賭氣地用了手動貼上的笨方法，以紙糊的方式把這個中文網站做了出來　Σ(￣□￣；&lt;/p&gt;
+&lt;p&gt;所以無法順利讓 community 及其底下的文章成功地出現上方選單位置（雖然有轉成 html）。於是乎就賭氣地用了手動貼上的笨方法，以紙糊的方式把這個中文網站做了出來　Σ(￣□￣；&lt;/p&gt;
 
 &lt;h3 id=&quot;瀏覽器呈現&quot;&gt;瀏覽器呈現&lt;/h3&gt;
-&lt;p&gt;不曉得是否因為原模版設計者未考慮不同瀏覽器底下的呈現效果，有些網頁在 FireFox 底下會「被擠出來」，用 Chrome 就順眼許多。就連這篇文章（post）在 Chrome 底下也是亂七八糟(╯-_-)╯ ~╩╩　，若不是….還蠻想另換個主題。（說說碎念而已，別怕。）&lt;/p&gt;</content><author><name></name></author><summary type="html">去年最花時間投入的二個在地化翻譯專案，其實到頭來回顧，都是蠻好的一場失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。 但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落地終結。</summary></entry></feed>
+&lt;p&gt;不曉得是否因為原模版設計者未考慮不同瀏覽器底下的呈現效果，有些網頁在 FireFox 底下會「被擠出來」，用 Chrome 就順眼許多。就連這篇文章（post）在 Chrome 底下也是亂七八糟(╯-_-)╯ ~╩╩　，若不是….還蠻想另換個主題。（說說碎念而已，別怕。）&lt;/p&gt;</content><author><name></name></author><summary type="html">去年最花時間投入的二個在地化翻譯專案，到頭來回顧，都是蠻好的失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。 但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落終結。</summary></entry></feed>
