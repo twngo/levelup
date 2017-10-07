@@ -19,18 +19,18 @@
   - trainer coordination checklist（Ｏ）
 ### planning your training event（Ｏ）
  - go dontgo decision　（Ｏ）
- - initial contact assessing need (V)
+ - initial contact assessing need （Ｏ）
  - context risk analysis　（Ｏ）
- - analysis design considerations (V)
- - communications content planning (V)
+ - analysis design considerations （Ｏ）
+ - communications content planning （Ｏ）
  - orientation preparation
 ### preparing sessions using adids (Ｏ)
 ### psychosocial underpinnings of security training
-  - getting grips with fear
-  - anxiety pressure gauge
-  - raise lower pressure
-  - traumatic stress reactions
-  - emotional resilience-
+  - getting grips with fear （V）
+  - anxiety pressure gauge （V）
+  - raise lower pressure （V）
+  - traumatic stress reactions （V）
+  - emotional resilience- （V）
 ### creating safe spaces （Ｏ）
 
 ## 3. curriculum
