@@ -10,28 +10,7 @@
 ### roles and responsibilities of a digital security trainer　 （Ｏ）
 ### setting expectations for participants organizers and yourself （V）
 
-## 2. before an event
-### levelups approach to adult learning （Ｏ）
-### using levelup trainers curriculum （Ｏ）
-### planning your event agenda （Ｏ）
-  - agenda checklist （Ｏ）
-  - the participant driven agenda（Ｏ）
-  - trainer coordination checklist（Ｏ）
-### planning your training event（Ｏ）
- - go dontgo decision　（Ｏ）
- - initial contact assessing need （Ｏ）
- - context risk analysis　（Ｏ）
- - analysis design considerations （Ｏ）
- - communications content planning （Ｏ）
- - orientation preparation
-### preparing sessions using adids (Ｏ)
-### psychosocial underpinnings of security training
-  - getting grips with fear （V）
-  - anxiety pressure gauge （V）
-  - raise lower pressure （V）
-  - traumatic stress reactions （V）
-  - emotional resilience- （V）
-### creating safe spaces （Ｏ）
+## 2. before an event （Ｏ）
 
 ## 3. curriculum
 ### malware protection
