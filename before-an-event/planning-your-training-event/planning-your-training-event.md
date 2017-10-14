@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Ni
 summary: "這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集相關投入，分析它對於訓練設計、準備和方向的後續影響。"
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/
-parent: Before an Event
-breadcrumb: Planning Your Training Event
+parent: 活動之前
+breadcrumb: 訓練活動規劃
 ---
 ## 介紹
 這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集其投入與分析它對於訓練設計、準備和方向的後續影響。

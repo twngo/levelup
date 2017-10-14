@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Ni
 summary: 這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集其投入與分析它對於訓練設計、準備和方向的後續影響。
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/5-orientation-preparation/
-parent: Planning Your Training Event
-breadcrumb: Step 5 - Orientation and Preparation
+parent: 訓練活動規劃
+breadcrumb: 第五步 -　方向和準備
 ---
 ### 訓練後勤
 最好有一位「處理者」或聯絡窗口，協助處理後勤的食宿交通問題，並在訓練當中照料相關問題。這個人應協助提供場地挑選的意見與答案。不然，就請主辦單位指派訓練籌備相關人員來負責此任務。

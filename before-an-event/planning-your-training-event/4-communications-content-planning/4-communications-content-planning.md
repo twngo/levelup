@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Ni
 summary: 這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集其投入與分析它對於訓練設計、準備和方向的後續影響。
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/4-communications-content-planning/
-parent: Planning Your Training Event
-breadcrumb: Step 4 - Communications and Content Planning
+parent: 訓練活動規劃
+breadcrumb: 第四步 -　通訊和內容規劃
 ---
 ### 訓練議程 
 準備訓練時一大重要部份是打造議程－它的內容大量依賴最初的需求評估以及考量情況與風險分析相關的實際操作。

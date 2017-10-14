@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Ni
 summary: "這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集相關投入，分析它對於訓練設計、準備和方向的後續影響。"
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/0-go-dontgo-decision/
-parent: Planning Your Training Event
-breadcrumb: Step 0 - The Go or Don't Go Decision
+parent: 訓練活動規劃
+breadcrumb: 第０步 -　做或不做的決擇
 ---
 #### 在開始決定是否要進行一場活動之前，最好能先想清楚活動規劃
 訓練員必須決定（通常得諮詢協作單位或自己的組織）是否能基於*最初的*資訊上來執行一場訓練。

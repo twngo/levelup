@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: "How To：運用 ADIDS 進行各時段備課"
+title: "How-To：運用 ADIDS　進行各時段備課"
 author: CC
 summary: 訓練員如何把 LevelUp 素材應用在自己的訓練議程，或是如何依自身經驗，運用　ADIDS 來建立一套新課程？這份資源解釋 ADIDS 本身提供議程設計的高度彈性。
 date: 2016-03
 permalink: /before-an-event/preparing-sessions-using-adids/
-breadcrumb: "How-To: Preparing Sessions Using ADIDS"
-parent: Before an Event
+breadcrumb: "How-To：運用 ADIDS　進行各時段備課"
+parent: 活動之前
 weight: 3.4
 ---
 #### 這份資源進一步說明個別的 ADIDS 時段要素與其特定的目的，並指示如何應用　ADIDS　來規則訓練議程上的個各時段。

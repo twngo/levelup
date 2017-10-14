@@ -5,8 +5,8 @@ author: Carol Waters, Nick Sera-Leyva
 summary: Each of LevelUp's curriculum modules is designed around a topic-based training session, which is in turn composed of a number of  distinct parts - this resource explains the basic structure of a session module, and the logic behind this structure.
 date: 2016-03
 permalink: /before-an-event/using-levelup-trainers-curriculum/
-parent: Before an Event
-breadcrumb: "How To: Using LevelUp Trainers' Curriculum"
+parent: 活動之前
+breadcrumb: "How To：運用訓練員課程設計指南"
 weight: 3.1
 ---
 #### 這篇文章介紹 [LevelUp 訓練員課程設計](/level-up/curriculum/)的架構機制，以及使用它來設計活動的考量點。

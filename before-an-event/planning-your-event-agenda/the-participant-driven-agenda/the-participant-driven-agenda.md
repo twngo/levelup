@@ -4,8 +4,8 @@ title: 學員驅策的議程
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 date: 2016-03
 permalink: /before-an-event/planning-your-event-agenda/the-participant-driven-agenda/
-parent: Planning Your Event Agenda
-breadcrumb: The Participant-Driven Agenda
+parent: 規劃活動議程
+breadcrumb: 學員驅策的議程
 ---
 ## A Participant's Training
 

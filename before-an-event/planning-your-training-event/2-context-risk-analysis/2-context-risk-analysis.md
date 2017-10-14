@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Ni
 summary: 這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集其投入與分析它對於訓練設計、準備和方向的後續影響。
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/2-context-risk-analysis/
-parent: Planning Your Training Event
-breadcrumb: Step 2 - Context and Risk Analysis
+parent: 訓練活動規劃
+breadcrumb: 第二步 - 情境脈絡與風險分析
 ---
 ### 文化、社會與政治情境脈絡
 在規劃活動之前，如果訓練舉辦地點不是你自己的地區，最好能先對該地區或國家作一點研究了解其文化、社會和安全相關脈絡。這些發現將強化你的訓練更接近操作現實，更具關聯性，並準備中了解自己的操作安全禮節和方式。

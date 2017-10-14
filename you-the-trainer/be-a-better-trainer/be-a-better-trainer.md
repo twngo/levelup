@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: 成為一名更好的訓練員
+title: 成為更好的訓練員
 permalink: /you-the-trainer/be-a-better-trainer/
 author: DJ
 summary: "There are many different kinds of digital security trainers, with many different habits and practices in turn - how can we be more aware of ourselves, and the impact of our own training habits on participants?"
 date: 2016-03
-parent: "You, The Trainer"
-breadcrumb: Be A Better Trainer
+parent: "身為安全訓練員"
+breadcrumb: 成為更好的訓練員
 ---
 #### The goal of the digital security trainer is to facilitate the participants' understanding of specific topics.
 In the context of online security training, the main goal of a trainer is to facilitate the participants' understanding of online security risks and solutions, apply it to their real experiences, and make the decision to change their behavior and practices in using the Internet. 

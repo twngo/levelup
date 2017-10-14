@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: LevelUp　的成人學習方法
+title: LevelUp　成人學習方法
 author: DJ, Manisha Aryal
 summary: LevelUp 使用 ADIDS，這是以成人為主的學習方法，並依此原則來組織相關課程。但這套方法從何而來，又為什麼要挑選它作為本教材的方法呢？
 date: 2016-03
 permalink: /before-an-event/levelups-approach-to-adult-learning/
-breadcrumb: LevelUp's Approach to Adult Learning
-parent: Before an Event
+breadcrumb: LevelUp　成人學習方法
+parent: 活動之前
 ---
 LevelUp　的核心是由*訓練者所建，為訓練者而存在*的課程，以豐富活化各式訓練活動和工作坊，使其成為一個對觀眾開放且參與的氣氛。對於這些在數位安全訓練中扮演支援角色者，我們的對像或是學習者通常是成年人。開放且參與的動力是訓練空間中不可缺少的動力，以促進學習，特別是成人學習。 
 

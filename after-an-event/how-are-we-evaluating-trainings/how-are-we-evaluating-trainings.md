@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: "如何評估訓練活動?"
+title: "如何評估訓練活動？"
 author: Dirk Slater, Natasha Msonza, Tawanda Mugari, Erin Murrock
 summary: 這裏的材料是取自 LevelUp 訓練員第一次網路會議記錄的綜合整理，該次會議由 LevelUp 與 fabRiders 主持。會議於 2016 年 2 月間舉行，透過了解訓練員採用的不同評估方法來衡量其帶領數位安全工作坊是否對學員的行為與安全習性帶來影響。
 date: 2016-03
 permalink: /after-an-event/how-are-we-evaluating-trainings/
-parent: After an Event
-breadcrumb: "How Are We Evaluating our Trainings?"
+parent: 活動結束後
+breadcrumb: "如何評估訓練活動？"
 ---
 # 如何評估訓練活動?
 

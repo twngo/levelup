@@ -5,8 +5,8 @@ date: 2016-03
 author: CC
 summary: "身為一名數位安全訓練員，我們對學員和自己都有一些義務。這份資源總結了相關責任的精華之處。"
 permalink: /you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/
-parent: "You, The Trainer"
-breadcrumb: Roles and Responsibilities of a Digital Security Trainer
+parent: "身為安全訓練員"
+breadcrumb: 數位安全訓練員的任務和角色
 ---
 #### 身為數位安全訓練員，我們為學員找尋解決數位安全擔憂的方法和策略，更要考量這些憂慮*以及*提出的對策是否會對學員的實際安全造成影響。
 

@@ -5,10 +5,10 @@ author: Sandra Ljubinkovic
 summary: 訓練可能是情緒高漲的過程，尤其如果學員曾經歷長期持續的壓力和創傷。作為一名訓練師，建立一個安全空間是其工作的基礎，這不僅是實體空間帶來的安全感，更包含團體當中的信任感。
 date: 2014-08
 permalink: /before-an-event/creating-safe-spaces/
-parent: Before an Event
-breadcrumb: Creating Safe Spaces
+parent: 活動之前
+breadcrumb: 打造安全空間
 ---
-##### 請留意，本文版權者（歸功於)[Tactical Tech](https://www.tacticaltech.org) 的 Sandra Ljubinkovic 而不是 LevelUp，需在文末標明為相同的 Creative Commons license-類別授權。
+##### 請留意，本文版權者為（歸功於)[Tactical Tech](https://www.tacticaltech.org) 的 Sandra Ljubinkovic 而不是 LevelUp，需在文末標明為相同的 Creative Commons license-類別授權。
 <br><br>
 
 ##### 「照顧自己不是自我放縱，它是一種自我保護也是一種政治戰鬥行動」 - Audre Lord

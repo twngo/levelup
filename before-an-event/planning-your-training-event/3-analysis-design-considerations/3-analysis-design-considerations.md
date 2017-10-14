@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Ni
 summary: 這些資源詳述訓練規劃的基礎，它是來自多位資深訓練員的記錄，從這些步驟中收集其投入與分析它對於訓練設計、準備和方向的後續影響。
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/3-analysis-design-considerations/
-parent: Planning Your Training Event
-breadcrumb: Step 3 - Analysis and Design Considerations
+parent: 訓練活動規劃
+breadcrumb: 第三步 - 分析與設計上的考量
 ---
 ### 排序需求與管理期待
 收集了學員的資料（以及文本情境分析）後，應對其數位安全上的最重要需求有更具體的想法，有助訓練員基於這些需求的先後次序，擬出一個議程草案，並求取他們的同意。記住，這個草案通常都會在第一天訓練後需要一些變動。當直接觀察與接收過學員們的反應，對他們的需求、情況以及威脅模型又有了更明確具體地了解。

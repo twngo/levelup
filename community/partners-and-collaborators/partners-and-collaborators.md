@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: 伙伴與協作人員
+title: 伙伴與協作者
 author: LevelUp
 summary: 不管是透過參與訓練者的訓練活動，寫手衝刺活動或是在地化材料翻譯衝刺活動、協助網站內容的翻譯與在地化、計畫的推廣、技術支援研究或需求調查等等投入，許多個人與組織的支援，才成就了LevelUp專案。
 date: 2016-06

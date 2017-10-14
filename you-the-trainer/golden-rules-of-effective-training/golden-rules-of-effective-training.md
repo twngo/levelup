@@ -5,8 +5,8 @@ date: 2016-03
 author: CC
 summary: "作為一名訓練員，如何處理學員們在數位安全上的擔憂，以有效而負責的方式來應對這些難題和現實呢?"
 permalink: /you-the-trainer/golden-rules-of-effective-training/
-parent: "You, The Trainer"
-breadcrumb: Golden Rules of Effective Training
+parent: "有效訓練的「黃金規則」"
+breadcrumb: 有效訓練的「黃金規則」
 ---
 #### 這裏列出一些基本的原則清單，是數位安全訓練員要堅守與維持一致的項目。為了辦理和引領訓練，最優先的考量是學員們的學習和變化、保護他們的身份和身心健康、尊重當地情境與期待學員們順利扺達訓練場地，身為一名訓練員，我們必須...
 

@@ -4,8 +4,8 @@ title: 議程檢查表
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 date: 2016-03
 permalink: /before-an-event/planning-your-event-agenda/agenda-checklist/
-parent: Planning Your Event Agenda
-breadcrumb: The Agenda Checklist
+parent: 規劃活動議程
+breadcrumb: 議程檢查表
 hide: true
 ---
 ## Starting from Scratch

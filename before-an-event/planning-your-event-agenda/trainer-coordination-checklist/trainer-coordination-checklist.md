@@ -4,8 +4,8 @@ title: 訓練員協調檢查表
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 date: 2016-03
 permalink: /before-an-event/planning-your-event-agenda/trainer-coordination-checklist/
-parent: Planning Your Event Agenda
-breadcrumb: Trainer Coordination Checklist
+parent: 規劃活動議程
+breadcrumb: 訓練員協調檢查表 
 hide: true
 ---
 ## Behind the Scenes
@@ -34,8 +34,8 @@ hide: true
 排出訓練者與協同訓練者如何領導、共同帶領或是支援不同場次的課程安排。基於擔任主要訓練者得付出多少精力的考量，建議最好是當有合格的協同訓練員時能，能夠讓她/他來負責帶領某些場次。留意自己的步調而不致於在工作坊期間過勞。
 
 #### 進一步資源
-- [How-To: Planning Sessions Using ADIDS](/level-up/before-an-event/preparing-sessions-using-adids/)
-- [The First 3 Sessions of Your Event](/level-up/you-the-trainer/first-3-sessions-of-your-event/)
+- [How-To:利用 ADIDS　規劃各時段](/level-up/before-an-event/preparing-sessions-using-adids/)
+- [訓練的前三個時段](/level-up/you-the-trainer/first-3-sessions-of-your-event/)
 
 ### 3. 「開放 Office Hours」 (不同時段)
 如果訓練者能提供「開放的辦公室時間」讓學員在多天的訓練當中有機會進行　1:1（或是小團體）的協助。這樣對「parking lot」擔憂是會有所幫助，「parking lot」是指在訓練中發生的問題但並不直接整個團體有關，尤其是一些複雜的東西（例如惡意軟體移除）。視訓練工作坊的行程，這類的問題可以在稍後的其它時間，如午餐時段、主訓練結束後、或是訓練期間的休息時間來處理。
@@ -50,14 +50,14 @@ hide: true
 
 #### 進一步資源
 - [訓練活動規劃 第五步 -　方向和準備](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
-- [How to Handle Surprises During Training](/level-up/you-the-trainer/how-to-handle-surprises-during-training/)
+- [如何處理意外事件](/level-up/you-the-trainer/how-to-handle-surprises-during-training/)
 
 ### 5. 當日評估 & 議程回顧 (每天，訓練結束後)
 
 每日的加號與三角型符號，如在 #10。訓練者應在每天最後時段碰面來看看學員們所下的符號評分以調整活動與議程，持續地改善接下來的訓練。在隔天訓練的一開始，訓練員也應花點時間與大家來檢視這個＋符號以及Δ符號比較多的部份。
 
 #### 進一步資源
-- [The First 3 Sessions of Your Event, Developing a Shared Brain](/level-up/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
+- [訓練的前三個時段，開發共享大腦](/level-up/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
 - [訓練活動規劃 第五步 -　方向和準備](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
 
 ## 議程規劃上容易犯下的錯誤

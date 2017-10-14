@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera
 summary:  除了理出個別的課題外，所有時段的規劃可能是你進到教室前**最重要**的活動了。這份資源包含了一些資深數位安全訓練員對議程準備的建議。
 date: 2016-05
 permalink: /before-an-event/planning-your-event-agenda/
-parent: Before an Event
-breadcrumb: Planning Your Event Agenda
+parent: 活動之前
+breadcrumb: 規劃活動議程
 ---
 #### 確保配置了足夠的時間來雕酌工作坊議程以及後續的準備。工作坊進行的天數越長，就有越多的事要準備。
 
