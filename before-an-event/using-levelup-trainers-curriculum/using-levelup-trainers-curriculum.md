@@ -2,7 +2,7 @@
 layout: content-page
 title: "How To：運用訓練員課程設計指南"
 author: Carol Waters, Nick Sera-Leyva
-summary: Each of LevelUp's curriculum modules is designed around a topic-based training session, which is in turn composed of a number of  distinct parts - this resource explains the basic structure of a session module, and the logic behind this structure.
+summary: LevelUp 課程每個模組是以一個題目作為的訓練時段，由其中一些特色單元組成。本文說明時段模組的架構以及其背後的設計邏輯。
 date: 2016-03
 permalink: /before-an-event/using-levelup-trainers-curriculum/
 parent: 活動之前

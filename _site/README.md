@@ -1,7 +1,7 @@
 # levelup https://level-up.cc 
 working files for Chinese  translation
 
-Traditional Chinese website : https://levelup.twngo.xyz (progress : about 25 %)
+Traditional Chinese website : https://levelup.twngo.xyz (progress : about 35 %)
 
 levelup.cc 數位安全訓練員教材分享園地的中文翻譯工作檔
 
