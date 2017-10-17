@@ -5,7 +5,7 @@
  - developing-shared-agreements
  - sharing-your-story
 ### golden rules of effective training　（Ｏ）
-### how to handle surprises during training　
+### how to handle surprises during training　（Ｏ）
 ### ice breakers and energizers
 ### roles and responsibilities of a digital security trainer　 （Ｏ）
 ### setting expectations for participants organizers and yourself （V）

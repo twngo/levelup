@@ -3,78 +3,80 @@ layout: content-page
 title: 訓練期間如何處理意外
 date: 2016-03
 author: DJ
-summary: "From internet outages to uninvited guests, this resource explores tips and advice from fellow trainers on ways to expect the unexpected during your training events."
+summary: "從網路斷線到未受邀出現的意外之客，這裏討論了一些技巧建議來準備訓練當中未預期到的意外狀況。"
 permalink: /you-the-trainer/how-to-handle-surprises-during-training/
 parent: "身為安全訓練員"
 breadcrumb: 訓練期間如何處理意外
 ---
-#### 在數位安全訓練中，不可能事先預測會發生什麼事
-...or any kind of workshop or event, for that matter, but you can still prepare yourself for surprises that may come up from time to time!
+#### 在數位安全訓練中，不可能事先預測會發生的每一件事
+...但仍然可以預防、自行準備活動或預期工作坊可能的意外狀況
 
 ## 和訓練材料有關的意外狀況
-Have you run out of markers, flipchart paper, post-its, or another important training aid, with no way to obtain more due to time or location? You can avoid this unpleasant surprise if you:
+如用完了麥克筆丶掛圖紙、便利貼或必要的訓練輔助工作，又一時沒辦法取得，還是可以避開這類不愉快的意外：
 
 #### 帶上自己的訓練工具箱
-A good trainer is a prepared trainer, and a prepared trainer always has their own training kit ready to go. While it may take up precious suitcase space, your own training kit guarantees that you’ll have the materials you need, when you need them. Some materials you would likely want to include:
-- Butcher / flipchart paper
-- Colored paper
-- Markers in different colors
-- Rubbing alcohol (for markers, also a good whiteboard eraser)
-- Rolls of masking and scotch tape
-- Packs of post-it notes in different colors
-- Notebooks and a bundle of pens
-- Sticky putty, thumbtacks and pins (for mounting paper)
+好的訓練員是有準備的訓練員，而準備好的訓練員總是自備自己的工具箱。這些工具雖然會佔行李空間，但自帶工具箱可確保所需的材料。通常要放入工具箱的材料包括：
+
+- 掛圖紙
+- 色紙
+- 不同顏色的麥克筆
+- 擦拭酒精 (麥克筆用，也可用來清理白板)
+- 捲簾和透明膠帶
+- 不同顏色的便利貼
+- 筆記本和筆
+- 粘土、圖釘和別針 (固定紙張用)
 
 #### 有替代方案對應
-If you've run out of training materials, or are running low on supplies in your training kit, you can often stretch the usefulness of what you have. For example:
-- Use the reverse side of flipchart paper to save or create new space.
-- Extend the life of dried-out markers by removing the marker tip with tissue and pouring rubbing alcohol into the well.
-- To re-energize water-based markers, seal them in a zip-bag and freeze overnight. In the morning, thaw the markers and the ink will be restored.
+如果一時之間用完了訓練材料，或是自備工具箱的補給存量很低，可能要擅用手上僅有的素材，例如：
 
-Can you think of other materials that can get a good second use?
-<br><br>
+- 使用掛圖紙的背面。
+- 為延長快乾的麥克筆使用壽命，可以利用紙巾來移除筆尖，並倒入一點擦拭酒精。
+- 重用水性麥克筆，可將之放在保鮮袋裏冷凍過夜，隔天早上再解凍麥克筆，墨水會恢復原狀。
 
-## 和網路接取有關的意外狀況
-If your training venue has very limited bandwidth, or loses its Internet connection from time to time, you may be able to minimize the negative effects by making some of the following preparations:
+是否還有其它可以重覆有效利用工具的好方法？
+
+## 和網路連線接取有關的意外狀況
+如果訓練場地的網路連線速度很慢或不時會斷線，為減少這類負面效應，先做點準備工夫：
 
 #### 檢查場地的網路連線狀況...
-While not always possible, visiting the training facility yourself a day or so before your training starts will let you identify potential problems and give you a chance to speak with the facility administrators about potential solutions.
+可以的話，在訓練活動之前一兩天先親自訪問堪察場地，可協助發現潛在問題，並有機會直接和場地管理員商談問題解決方案。
 
 #### 如果無法親自場堪...
-Find someone qualified who would be willing to do a walk-through of the venue prior to your arrival, and ask them to report back. Because event organizers are not necessarily equipped for technical assessments, you should reach out to someone in your professional network to conduct the visit for you. If don’t know someone in the area, contact your colleagues and peers to see if they do.
+找到信任合適的人選，代為仔細探堪場地，再向訓練員回報狀況。活動主辦單位不見得具備某些技術評估能力，所以最好透過自身專業網絡，找到合適人員代為執行此次場地堪察。如果在當地找不到合適人選，試著聯絡同事或同儕看看他們能否幫忙。
 
 #### 準備能在沒網路的狀況進行訓練....
-Download beforehand all the software you want participants to use. Wait until the last day during which you know you will have good internet access, so you’re sure to get the latest versions of applications. This is a good time-saver, even if your Internet connection is a good one.
+先行下載要學員使用的軟體，這項工作最好留在確定有良好網路連線品質的最後一天，以確保下載到軟體的最新版本。即便工作坊進行時網路連線狀況良好，先下載好軟體也可以節省不少時間。
 
 #### 訓練材料要事先存在電腦上...
-Have pre-prepared, offline ready copies of presentations, guides, video clips, how-to's, etc. well in advance. You can also burn the resources onto CDs or DVDs to give to participants as a resource for future reference.
+已事先準備好下線的簡報、指南、影片等備份複本。也可以把這些資料燒錄成光碟片，提供給學員留作日後參考。
 <br><br>
 
 ## 和學員有關的意外
-Digital security trainers address sensitive topics and issues that could potentially put your participants, organizers, you and the rest of your training team at risk - especially if they heard or taken out of context by anyone who isn't part of the training. 
+數位安全訓練員討論敏感題目議題，這可能讓學員、主辦單位、與團隊成員面臨風險，尤其有些不是訓練的參與者，他們並不了解整個情況。
 
-The easiest ways to protect against this are some basic initial steps:
+防止增加此風險最簡單的方式，有以下步驟：
 
 #### 讓活動對外看起很普通
-In private communications with participants or organizers, you may wish to call the training a “digital safety” or “digital security” workshop; however, in public (in posters, venue signs, invitations, badges, or any other such materials) you may wish to use a non-sensitive title for the event, such as “communication strategy” or "digital literacy" workshop. In the best case scenarios though, keeping public references to the event to the absolute bare minimum is usually the best way to go.
+私下和學員或主辦單位聯絡時，雖然訓練本是「數位安全」工作坊，但在公開管道（如海報、場地指標、邀請信、徽章等材料上），最好使用較不敏感的標題，像是：「通訊策略」、「數位識讀」工作坊。某些最佳情況下，就是讓公眾對此活動知道的越少越好。
 
 #### 訓練開始之前先多認識學員
-You will need to work with the organizers to make sure that participants are who they say they are, and not “monitors” sent to report on training activities to outside parties. If it's a local workshop, this becomes easier as organizers and training team members may be able to pay participants in-person visits to get to know them better. In regional and / or international contexts, you may need to have people you know and trust to verify participants’ identities and vouch for them.
+和活動主辦單位好好合作，確認弄清楚參加學員們的身份，不要對訓練活動以外的其它人士透露有關訓練的報告。工作坊若是舉行在當地，主辦方和訓練團隊成員或許能親身訪問學員以更認識了解他們。如果是區域或跨國的工作坊，可能要靠認識信任的人來協助查核參加學員的身份。
 
-#### 對於「未受邀出現的訪案」有因應準備
-If, when the training begins, you find that one or more of the people in the room were neither invited nor vouched for, you need to consider the possibility that they have been sent to monitor the class for an outside organization. In this situation, it is recommended that you hold a meeting with the organizers and the training team to talk about the following:
-- Where are these new participants from?
-- Are they from the local government or another authority?
-- Will any participants be at risk due to their presence?
-- If so, how can you and the organizers minimize the participant’s risk?
-- Would it be safer to ask the guests to leave?
-- Are there other ways you can think of that won't arouse any suspicion? 
+#### 對「未受邀出現的訪客」，備有因應之道
+訓練開始後，若發現有未受邀或不明人士在場，考慮其它組織派了「監控觀察者」的可能性。若有此狀況，建議先和主辦單位/訓練團隊開會討論：
 
-In some cases, it might be productive to keep the guests in the training, but to hold ‘secret’ side meetings during breaks, in the evening, or during extra days for the other participants. 
+- 這些新面孔從哪裏來的？
+- 是來自當地政府或其它機關嗎？
+- 是否因為這些人的出現，讓此訓練活動擔上任何風險？
+- 若評估有風險，如何讓風險降至最低？
+- 要求訪客離開是否能較為安全？
+- 有無其它方式不至引起懷疑？
+
+有些狀況，讓訪客留在訓練裏可能會促進效率產能，但最好為學員在休息、傍晚或其餘時段，進行（別讓訪客知道參與的）「祕密」的週邊會議。
 
 ### 如果都行不通，或是外人公然衝入訓練場地：
-- Call security
-- Call the organizers
-- Find another room, venue, and/or have workshop hours at different times.
+- 呼叫保全人員
+- 找主辦單位
+- 找不同的教室、場地或擇期再辦訓練
 <br><br>
 

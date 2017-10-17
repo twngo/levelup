@@ -5,8 +5,8 @@ date: 2016-03
 author: DJ, Nick Sera-Leyva
 summary: "The task of putting yourself, your training participants, and (sometimes) training event organizers on the same page early on before an event can be a difficult one - this resource contains some helpful approaches for facilitating those discussions."
 permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
-parent: "身為安全訓練員"
-breadcrumb: "為學員、主辦單位以及你自己設定期待"
+parent: "You, The Trainer"
+breadcrumb: "Setting Expectations for Participants, Organizers, and Yourself"
 ---
 #### 要管理他人期待之前先接受自身的限制
 Setting expectations for organizers and participants is possibly only after accepting the first set of expectations you need to have in place - what you can reasonably expect *yourself* to be able to do?
