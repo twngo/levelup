@@ -10,7 +10,7 @@ levelup.cc 數位安全訓練員教材分享園地的中文翻譯工作檔
 
 2017.09.30 [LevelUp （紙糊的）中文網站上線](https://blog.jxtsai.info/2017/09/30/levelup/)
 
-2017.12.09 [LevelUP 中譯工作告一段落]（）
+2017.12.09 [LevelUP 中譯工作告一段落]（https://levelup.twngo.xyz/levelup/update/2017/12/09/update）
 
 #### 工作進度：
 目前完成進度大約是 45%，原始英文稿 _pages/_ 底下，中文稿則依原稿的分類，直接拉出來在第一層。
