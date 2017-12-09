@@ -5,8 +5,13 @@ date: 2016-03
 author: DJ, Nick Sera-Leyva
 summary: "這裏的任務是把自己、學員和（有時包括）訓練主辦單位，盡早能在活動之初步調一致，提供一些有用的方式來促進此方面的討論"
 permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
+<<<<<<< HEAD
 parent: "身為安全訓練員"
 breadcrumb: "為學員、主辦單位以及自己設定期待"
+=======
+parent: "You, The Trainer"
+breadcrumb: "Setting Expectations for Participants, Organizers, and Yourself"
+>>>>>>> 472880e77ce8ba47c63183e477d8dc9f97762fca
 ---
 #### 處理他人期待前，先接受自身的限制
 唯有先接受自身要優先安置的期待，才可能去處理主辦單位與學員的期待，合理預期*自己*能做什麼呢？

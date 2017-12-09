@@ -1,12 +1,20 @@
 ---
 layout: content-page
+<<<<<<< HEAD
 title: 成為更優秀的訓練員
+=======
+title: Be A Better Trainer
+>>>>>>> 472880e77ce8ba47c63183e477d8dc9f97762fca
 permalink: /you-the-trainer/be-a-better-trainer/
 author: DJ
 summary: "數位安全訓練員的類型很多樣,其各有不同的風格與習性,那我們又該如何更自覺自身的習性,意識到其如何影響我們在訓練當下的表現?"
 date: 2016-03
 parent: "身為安全訓練員"
+<<<<<<< HEAD
 breadcrumb: 成為更優秀的訓練員
+=======
+breadcrumb: Be A Better Trainer
+>>>>>>> 472880e77ce8ba47c63183e477d8dc9f97762fca
 ---
 #### 數位安全訓練員的目標是促進學員對某持定主題的認識理解
 線上安全訓練的情境脈絡中，訓練員主要的目標是促進學員們能理解網路安全、風險和解決方案。將這些知識應用到現實的經驗，以在使用網際網路時決定要如何改善自身的行為習慣。
