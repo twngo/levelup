@@ -1,5 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-14T15:42:31+08:00</updated><id>http://localhost:4000/</id><title type="html">LevelUp</title><subtitle>Resources for the global digital safety training community 數位安全訓練社群的共享圈地
-</subtitle><entry><title type="html">LevelUp 中文網站上線！10/07更新</title><link href="http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese.html" rel="alternate" type="text/html" title="LevelUp 中文網站上線！10/07更新" /><published>2017-10-07T08:32:25+08:00</published><updated>2017-10-07T08:32:25+08:00</updated><id>http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese</id><content type="html" xml:base="http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese.html">&lt;p&gt;去年最花時間投入的二個在地化翻譯專案，到頭來回顧，都是蠻好的失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-09T20:10:44+08:00</updated><id>http://localhost:4000/</id><title type="html">LevelUp</title><subtitle>Resources for the global digital safety training community 數位安全訓練社群的共享圈地
+</subtitle><entry><title type="html">LevelUp 中文網站暫告段落</title><link href="http://localhost:4000/levelup/update/2017/12/09/update.html" rel="alternate" type="text/html" title="LevelUp 中文網站暫告段落" /><published>2017-12-09T18:32:25+08:00</published><updated>2017-12-09T18:32:25+08:00</updated><id>http://localhost:4000/levelup/update/2017/12/09/update</id><content type="html" xml:base="http://localhost:4000/levelup/update/2017/12/09/update.html">&lt;p&gt;二個月前「默默地宣佈」了 Level-Up 數位安全訓練員教材中文版的上線，當時自我承諾著，希望能在今年年底之前，能完成 1,2,4,5，留下了重中之重的 curriculum，畢竟課程內容與技術實際操作的部份，往往會隨著時間、科技等等因素快速變化，一人難以趕得上此番變化，也只能留得其它有心人來接力囉。（如果沒有，那就這樣吧～～灑花謝幕）&lt;/p&gt;
+
+&lt;p&gt;本專案源起介紹：
+2016 &lt;a href=&quot;http://self.jxtsai.info/2016/08/level-up.html&quot;&gt;數位安全訓練員教材中文化初稿&lt;/a&gt;
+2017 &lt;a href=&quot;https://blog.jxtsai.info/2017/09/30/levelup/&quot;&gt;LevelUp 中文網站上線&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. you the trainer （Ｏ）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. before an event （Ｏ）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. curriculum&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;malware protection
+    &lt;ul&gt;
+      &lt;li&gt;safer software updating (ADIDS)&lt;/li&gt;
+      &lt;li&gt;using antivirus tools (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;mobile safety
+    &lt;ul&gt;
+      &lt;li&gt;how mobile networks work (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;protecting data
+    &lt;ul&gt;
+      &lt;li&gt;creating and managing strong passwords (ADIDS)&lt;/li&gt;
+      &lt;li&gt;data backup basics (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;safer browsing
+    &lt;ul&gt;
+      &lt;li&gt;anonymity and circumvention (ADIDS)&lt;/li&gt;
+      &lt;li&gt;https ssl (ADIDS)&lt;/li&gt;
+      &lt;li&gt;identity protection privacy (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;safer communication
+    &lt;ul&gt;
+      &lt;li&gt;pgp gpg email encryption (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;safer workspaces
+    &lt;ul&gt;
+      &lt;li&gt;Tails (ADIDS)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;social media safety （V）&lt;/li&gt;
+  &lt;li&gt;social media safety awareness (ADIDS)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;4. after an event （Ｏ）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. community （Ｏ）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;畫（Ｏ）的部份完成中文初稿。&lt;/p&gt;</content><author><name></name></author><summary type="html">二個月前「默默地宣佈」了 Level-Up 數位安全訓練員教材中文版的上線，當時自我承諾著，希望能在今年年底之前，能完成 1,2,4,5，留下了重中之重的 curriculum，畢竟課程內容與技術實際操作的部份，往往會隨著時間、科技等等因素快速變化，一人難以趕得上此番變化，也只能留得其它有心人來接力囉。（如果沒有，那就這樣吧～～灑花謝幕）</summary></entry><entry><title type="html">LevelUp 中文網站上線！10/07更新</title><link href="http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese.html" rel="alternate" type="text/html" title="LevelUp 中文網站上線！10/07更新" /><published>2017-10-07T08:32:25+08:00</published><updated>2017-10-07T08:32:25+08:00</updated><id>http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese</id><content type="html" xml:base="http://localhost:4000/levelup/update/2017/10/07/levelup-Chinese.html">&lt;p&gt;去年最花時間投入的二個在地化翻譯專案，到頭來回顧，都是蠻好的失敗教訓，畢竟失敗這回事佔滿了人生的十之八九。
 但還是稍心有不甘地想繼續賭氣，於是回過頭來整理去年譯成的初稿，算是把它們告一段落終結。&lt;/p&gt;
 
 &lt;p&gt;除了 Umbrella-app 之外，另一個就是&lt;a href=&quot;https://level-up.cc&quot;&gt;LevelUp&lt;/a&gt;（請見去年所留下的記錄&lt;a href=&quot;http://self.jxtsai.info/2016/08/level-up.html&quot;&gt;數位安全訓練員教材中文化初稿&lt;/a&gt;）。&lt;/p&gt;

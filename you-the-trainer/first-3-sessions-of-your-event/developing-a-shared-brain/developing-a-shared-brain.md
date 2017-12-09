@@ -1,91 +1,95 @@
 ---
 layout: content-page
-title: Developing a Shared Brain
+title: 開發共享大腦
 permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/
 author: Chris Michael
-summary: "As a trainer, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent."
+summary: "身為訓練員，引領活動最重要的一面是及早評估與管理學員們的期待。此有助於建立議程和發展各式練習活動，讓每個人的時間都能妥善使用"
 date: 2016-03
-parent: The First 3 Sessions of Your Event
-breadcrumb: Developing a Shared Brain
+parent: 訓練活動的前三個時段
+breadcrumb: 開發共享大腦
 ---
-##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
+##### 請留意，本文版權者為（歸功於)[Tactical Tech](https://www.tacticaltech.org) 的 Chris Michael 而不是 LevelUp，需在文末標明為相同的 Creative Commons license-類別授權。
 
-#### Let’s face it: We’re all busy. 
-We’re often over committed and juggling multiple responsibilities in our work and personal lives. As a facilitator, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
+#### 正視它吧，大家都很忙！
+不管是工作與私人生活，我們往往過份投入或掙札於各種責任。作為一為主持人，能好好帶領活動最基本的一點是：及早能評估與管理參加者的期待。如果能做到此，則建立的議程和練習操作都可確保參加者和團隊的時間被妥善利用。
+
 <br><br>
 
-## In an Ideal World...
-In an ideal world, you and the event’s organizing team would have conducted a series of pre-event interviews with all stakeholders involved weeks in advance of the event. Conversations and questionnaires conducted with other organizers, participants, funders and allies would yield critical insight and inform the content you would cover, the agenda you would design and the flow of experiences you would create throughout the event. Weeks before the event, you would have started an event email chain in which all participants introduced themselves and their affiliations, shared their hopes for the event and one or two topics or skills they were eager to cover.
+## 理想中...
+理想世界裏，訓練員和主辦單位能夠（在訓練幾週之前）事前與各方利害相關人士，進行一一面談。與其它的活動辦理人員、學員、贊助者或同盟者的談話可以洞察重要的發現，知道訓練應要涵蓋的內容、議程設計以及預期的經驗。這時候也可以開始透過活動的郵件群組來認識學員們、了解他們對訓練的期待，例如希望訓練要涵蓋的題目。
 
-If you were able to gather this information in advance, you would share highlights and major themes in communication with participants before the event and in the first session of your gathering. Sharing back this information helps to ensure everyone in attendance begins to develop a “Shared Brain” – a shared understanding as to the why we are gathering, why now, why they were chosen as participants, what we will collectively cover, what we aim to accomplish while we are together and, where applicable, action plans moving forward.
+如果事先能收集到這類資訊，也可先讓學員從通訊中知道本次活動的亮點與主要題目。分享這類資訊可協助確保每個人在一開始出席時已經能發展出「共享的大腦」，明白為何聚集在一起，為何被選入，訓練中包含什麼內容以及期待一起達成的目標，如何應用學到的技能與及後續的行動計畫。
+
 <br><br>
 
-## Objectives of Establishing a Shared Brain
-This Shared Brain is useful to develop in advance; however, that is not always possible. Consequently, here are a few tips to help you develop a Shared Brain in real-time on the first morning of your event. Whether a short, multi-hour or long, multi-day gathering, this process is highly recommended as one of your first sessions. Once you establish the Shared Brain through conversations and documentation on flipchart paper or butcher block, you can refer back to it throughout your event and note your progress.
+## 建置共享大腦的目的 
+事先發展共享大腦很有幫助，但它並不是都能奏效。因此訓練第一天早上可利用一些小訣竅來開發共享大腦。不管是多麼簡短、數小時或長時間多天的聚會，強力建議在訓練的第一個時段進行此活動。一旦透過會話和掛圖記錄建立起共享大腦，在訓練期間可以隨時參考它並註記進度。
 
-### This process will help ensure we collectively learn and clarify how we will make the most of our time together, allow us to:
+### 此過程協助我們共同學習和明確如何共同讓訓練時間發揮最大效能，讓我們能：
 
-#### Learn
-...participants’ motivations for their attendance.
+#### 學習
+...學員出席的動機
 
-#### Evaluate
-...any shared desires or needs for conversations or skill-building.
+#### 評估
+...共享期望或需求，以進行對話或是建立技能。
 
-#### Assess
-...some of the group dynamics and any potential challenges around content or perspectives.
+#### 接近
+...某些團體動力和因內容或觀點的潛在挑戰
 
-#### Manage
-...expectations by noting what content will and what will not be formally covered – such as due to not aligning with overall objectives, time constraints or lack of expertise in the room.
+#### 管理
+...期待，說明涵蓋哪些內容以及未能放進來的題目，後者可能是未符合整體的目標、時間限制或欠缺經驗等因素。
 
-#### Establish
-...a shared understanding of goals, objectives and content of gathering.
+#### 建立
+...共同理解目標、目的和聚會內容
 
-#### Review
-...the agenda and invite reflections on where the current agenda design meets with the Shared Brain and if there are gaps that need to be addressed.
+#### 回顧
+...請大家對目前符合共享大腦的議程設計再提想法，留意是否還有落差需要討論注意。
 <br><br>
 
-## Exercise - Developing a Shared Brain: Assessing and Managing Expectations
-Allow 30 – 90 minutes for this exercise, to ensure that everyone has time to share and reflect. Schedule this as early as possible in a training; either as part of the introductions, or immediately after. The only supplies required are post-it notes (two colors) and thick markers.
+## 練習　-- 發展共享的大腦：評估與管理期待
+請利用　30 – 90 分鐘進行此活動，以確保每個人都有時間來分享和反思。訓練中盡早安排此活動，不管是利用自我介紹或是其後的時段。本活動道具只需便利貼（雙色）與粗字麥克筆。
 
-### Introduction
-Introduce yourself and invite one of the organizers to give a very short welcome to the gathering, outlining a few of the key goals that the organizers envision, and sharing why participants were invited. *This very brief introduction should take no more than five minutes.*
+### 介紹
+先自我介紹，邀請主辦單位某一位代表來致歡迎辭，大致說明主辦單位所期待的重要目標，以及為何這些學員被邀請來參加。**簡單介紹不要超過五分鐘以上。**
 
-### Considering Motivations
-Distribute post-it notes and markers (everyone should take 1 of one color, and 2 of another color – 1 pink and 2 blue, for example). Introduce the exercise, noting that it is designed to help the group develop a Shared Brain – an understanding as to our motivations as individuals that will be reviewed as a group. *Encourage participants to be open and honest.*
+### 考慮動機
+發給每個人二種不同色的便利貼和麥克筆，介紹活動規則，說明它是用來協助團體發展共享大腦－－理解個人的動機再由團體共同檢視。*鼓勵學員放開壓力與誠實*
 
-Write the question prompt out visibly, and ensure everyone can see it - they should write their answer(s) out on their post-it notes in one sentence or less. Here are a few example statements participants could complete:
-- “Success by the end of this gathering is _____”
-- “I want to learn / discuss / address _____ by the end of our time together”
+寫下問題，確保每個人都可以清楚看到　－－　學員應在便利貼寫下一句話，例如下方的例子：
 
-Have each person work alone for 5 minutes to finish their notes. The lone colored post-it note is their most important need or expectation; the other 2 post-it notes are of great importance. Make sure everyone writes their name or initials in the upper-right corner of each post-it.
+- 「這個訓練最後的成功是：　_____」
+- 「我想要在這段共同的時間內，學習 / 討論/　了解　_____　」
 
-##### Pause: Ask someone to repeat the instructions for the exercise before participants begin. Invite any clarifying questions.
+給大家五分鐘左右來寫下自己的便利貼筆記。只有一張顏色的便利貼表示是最重要的需求和期待，而另二張其它顏色的便利貼則是重要的期待。提醒大家在右上角寫下自己的名字或代碼。
 
-### Sharing Motivations
-With their notes, each participant should introduce themselves to the group with their name, brief affiliation and read their top three motivations, placing each post-it note on the wall once they’ve read it. To help manage time, stress that each person should **just read and not elaborate or explain their reasoning.**
+##### 暫停：請某位學員在開始之前，重述練習的指示。也開放發問，釐清不明白的地方
 
-##### Pause: Ask someone to repeat the instructions for the exercise before participants begin. Invite any clarifying questions.
+### 分享動機
+每一位學員應提及自己的名字、組織和三個主要的參加動機，並在讀完便利貼內容後把它們貼在牆上。為掌控時間，強調每個人**只須讀出寫的內容不必再加以說明原因**。
 
-As each participant finishes, have them move towards a “gallery wall” where the post-it notes will all be put up. Once everyone has shared their notes, ask everyone to stand and look at all of the post-its. **Ask for reflections – are there any similarities?**
+##### 暫停：在開始之前，請某位學員先重述此活動的指示，歡迎學員針對不明白的地方提問。
 
-Invite the group to cluster post-its into themes, such as all notes that deal with “Learning to use encryption” or "Better protecting my online identity", etc. Once all of the post-its are clustered, and you’ve had a group discussion on any themes that have emerged from participants' clustering, invite everyone to sit down.
+當每一位學員完成後，把它們移往貼滿便利貼的「畫廊之牆」。一旦每個人都分享完其筆記內容後，請他們站在牆前看看這些便利貼。**詢問任何反饋，是否其中有相似之處？**
 
-### Introducing the Agenda
-Introduce the agenda alongside this process, noting and inviting commentary on where the agenda is in-line with participants’ needs or motivations. Ask participants if there are any gaps, especially if there are common themes of expectations that are not currently in the agenda. Address these gaps with the reasoning for the agenda, or plans for adapting the agenda to address the lack of time allocated for themes missing.
+請大家依照主題為便利貼分類，例如「學習使用加密」或「保護網路線上身份」等題目。一旦作好便利貼的分類，坐下進行團體討論學員提出的題目
 
-##### To wrap-up this exercise, the facilitator should note what motivations or needs will not be covered.
-This is essential in order to manage expectations. Communicate if needs or desires cannot be met due to the goal of the gathering, time constraints or lack of expertise in the room.
+### 介紹議程
+在此過程中介紹工作坊議程，請學員依其需求和動機，針對議題提出評論並作筆記。問問學員是否認為其中存有落差，例如他們期待的某一個主題並未放入議程？說明這些落差的原因，或是因時間不足議程不得依此作出調整。　
 
-##### Regardless of the reason, place the respective notes of desire on a flip chart titled “Bike Rack” or "Parking Lot".
-This is a series of topics and questions that are not part of the formal agenda, but are documented for the notes as well as serve as an invitation for participants to discuss during open sessions or during free time. Keep these notes up, or transfer to a large piece of paper. Keep individuals’ names associated with the motivation so you can check-in with them throughout the gathering individually and see if their needs are being met.
+##### 打包整理練習，主持人應提醒哪些東西沒放在訓練課程裏 
+這樣的期待管理很重要。如果由於聚會的目標、時間限制或是教室中缺乏練習，期望或需求不符合學員所要，請好好溝通。
 
-##### On the last day, invite each person to remove or cross-off his or her need or motivation if met during the event.
-Review what is left and allocate time participants to connect after the gathering if they can assist or are also interested in outstanding needs or discussions
+##### 先不管原因，把掛圖上所列的希望清單分成「單車架」和「停車場」二類
+這系列的題目和問題不放在正式議程裏，但還是把它們記錄下來，以便利用開放時段或是自由時間，邀請學員們來討論。保留這些筆記記錄或是把它們集中在另一份大張的報紙。記下個人的名字與其動機便利貼，以便讓訓練員可完整地留意某些個別的需求與期待是否被滿足。
+
+##### 最後一天，邀請每一個人把訓練中已達成的動機或需求移除或劃掉
+回顧還剩下什麼，並分配時間讓學員能夠在聚會後繼續聯繫，如果他們願意協助或有興趣或討論。
 <br><br>
 
-##### *Trainer's Note*
-Don’t rush this exercise! By taking time developing a Shared Brain at the beginning of your gathering, you will build clarity on the purpose of the gathering and a shared understanding about participants’ motivations. You will also be able to clearly cover the goals and objectives of the gathering while reviewing the agenda in a clear, engaging way. For a digital safety trainer, this is crucial information about your participants that you will need in order to adjust the agenda as required for the rest of the training.
+##### *訓練員請注意*
+不要著急匆忙地進行此活動！一開始先花點時間好好地發展共享大腦，有助建立明確的訓練目標並了解學員們的動機。訓練員也能夠在說明議程時，明確提高參與投入的方式、清楚地介紹訓練的目的和目標。學員提供的重要資訊有於訓練接下來的調整。
+
 <br><br>
 
-##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
+##### 請留意，本文版權者為（歸功於)[Tactical Tech](https://www.tacticaltech.org) 的 Chris Michael 而不是 LevelUp，需在文末標明為相同的 Creative Commons license-類別授權。
 <br><br>

@@ -1,128 +1,135 @@
 ---
 layout: content-page
-title: 成為更好的訓練員
+title: 成為更優秀的訓練員
 permalink: /you-the-trainer/be-a-better-trainer/
 author: DJ
-summary: "There are many different kinds of digital security trainers, with many different habits and practices in turn - how can we be more aware of ourselves, and the impact of our own training habits on participants?"
+summary: "數位安全訓練員的類型很多樣,其各有不同的風格與習性,那我們又該如何更自覺自身的習性,意識到其如何影響我們在訓練當下的表現?"
 date: 2016-03
 parent: "身為安全訓練員"
-breadcrumb: 成為更好的訓練員
+breadcrumb: 成為更優秀的訓練員
 ---
-#### The goal of the digital security trainer is to facilitate the participants' understanding of specific topics.
-In the context of online security training, the main goal of a trainer is to facilitate the participants' understanding of online security risks and solutions, apply it to their real experiences, and make the decision to change their behavior and practices in using the Internet. 
+#### 數位安全訓練員的目標是促進學員對某持定主題的認識理解
+線上安全訓練的情境脈絡中，訓練員主要的目標是促進學員們能理解網路安全、風險和解決方案。將這些知識應用到現實的經驗，以在使用網際網路時決定要如何改善自身的行為習慣。
 
-##### Below are some common examples of trainer behavior that can impede this goal:
+##### 以下列出某些狀況，有些訓練員的行為反而可能削弱上述的目標
 
-## The Jargon-Monster
-Jargon is a bit like a ‘secret language' that is shared among people who are experts in a particular field – a shorthand in which complicated concepts get abbreviated into a single word or phrase. As long as the experts know what the jargon is, they can communicate their ideas clearly and more quickly than they would otherwise.
+## 術語怪獸
+術語有點像某個領域裏專家們共同分享一種「神祕的語言」，複雜的概念快速地以縮寫成一個單字或片語。只有專家知道這些行話術語的意義，因此他們彼此之間能夠很快速清楚地溝通想法。
 
-##### *But what happens when jargon gets used in a classroom where the participants aren’t experts?*
+##### *但如果課堂上學員不是專家,卻大量使用術語會發生何種狀況呢?*
 
-Jargon-Monster behavior in training is the over-use of technical terms without explaining what they mean. This behavior assumes that everyone in the room has the same background, experience and level of expertise on the topic. Ultimately, this behavior gets in the way of real learning. An effective trainer shouldn’t shy away from jargon, but s/he should define specific terms during the lessons.
+在訓練時，術語怪獸的行為就是大量地使用技術性字眼而沒適當地解釋其代表的意義。這樣的行為假設教室中每個人都已具備相同的背景知識、經驗和對題目相當程度的認識。最終這樣的行為可以是一種現實學習方法。一名有效的訓練員不必刻意躲避術語，但必須要在課程中適當地定義明確的字眼用意。
 <br><br>
 
-### Some helpful ways to tame your use of jargon include:
+### 有些方法可以協助你來馴服使用術語的毛病：
 
-##### The Jargon Ball 
-Jargon balls let participants sound the alarm when jargon gets used. One or more soft balls (perhaps just a t-shirt wrapped up in tape) are handed out at the start of the class. Participants are invited to toss the ball at anyone who uses jargon (both trainers and other participants) in order to get them to stop and explain what they mean.
+##### 術語球
+當學員們聽到使用術語字眼時，術語球就會發出警示聲。課程開始時，使用一兩個軟質球，讓學員們一起來玩。可以向任何遘術語的人拋出球，好提醒他們停頓下來，解釋該字眼的意義。
 
-##### The Jargon Jar
-Another idea is to start a tech workshop by having a Jargon Jar session. You can use an actual jar (a big one), and then ask the participants to write down on small pieces of paper the technical jargon that they have heard or read before the training (one jargon or concept per piece of paper). Then collect the pieces of paper. The trainer then goes through each one and specifies in which session in the workshop these jargon / concepts will be covered. Of course the trainer has to remember to cover these topics in the appropriate session! Another way to do this is to draw a jar on a big piece of butcher paper and ask the participants to call out the jargon they have heard or read. Again, the trainer should go and specify when the jargon / concept will be tackled.
+##### 術語罐
+另一種作法是在開始技術工作坊時，安排一個術語罐時段，可以用一個真正的罐子。請學員們在小紙張寫下有聽過或讀過的專業術語（一張紙寫一個術語），然後把它們收集起來，由訓練員一一來說明哪些時段課程會涵蓋介紹這些術語概念。當然訓練員之後必須記住要在適當的課程時段裏作介紹。另一種作法是在一幅大張的紙上請學員們寫下術語，再請訓練員作介紹說明。 
 
-##### Use Metaphors, and Use Them Often
-Think about the topic you are teaching and try to find practical, common-place analogies that can illustrate the concepts in a clearer way. For example, in a session on using PGP (Pretty Good Protection) to encrypt email, it might be more effective to tell participants that sending an encrypted email is like sending a padlock that only a person with the right key can open, before you try to describe the technology behind it.
+##### 常用譬喻方式
+想想要教授的題目，並試著找到實用合適常見的類比例子，生動地示範這些概念。例如，在教使用 PGP 加密電子郵件時要談其背後的技術之前，更有效的教法是告訴學員，傳送加密電郵就像送一個掛鎖，唯有持正確鎖匙者才能打開它。
 
-Use multiple and layered metaphors in explaining concepts. One of the most common metaphors that security trainers use to describe the inherent insecurity of email, for instance, is 'it’s like sending a postcard', where everyone who gets hold of the postcard (from the mailman to post-office workers) can see what the sender has written on it. A layer is added to the metaphor when the trainer explains that using HTTPS in email is like “putting the postcard in an envelope”.
+使用多重與層次的譬喻來解釋概念。安全訓練員最常用來描述電子郵件本質上的不安全，就是像寄一張名信片，每一位經手者（郵差或郵局工作人員）都可以看到寄件人在上頭寫了什麼。而電子郵件使用 HTTPS 多了一層安全，就好像把明信片放到信封中。
 
-##### Draw It!
-Don't dismiss the effectiveness of a few stick drawings to illustrate a concept. They are more powerful teaching tools than a paragraph of words on the same topic. The challenge here for trainers is not whether or not you can draw like an artist, the challenge here is organizing how you will teach a concept. What are the processes involved in a specific session? How can you illustrate them in such a way that each process is clear to everyone?
+##### 畫出來！
+不要小看圖畫能說明概念的效力，它們是有用的教學工具，有時更勝整段長篇文字。對訓練員而言，此刻的挑戰並不是把圖畫得像藝術家的水準，而是如何透過圖畫方式來組織欲傳達的想法概念。特定時段中要透由什麼樣的互動過程？如何利用這些圖畫更清晰地把這個想法傳達給每一位學員？
+
 <br><br>
 
-## The PowerPoint-Freak
-Preparing presentations for workshops is part of the standard trainer’s routine, and there is undeniable value in using PowerPoint (or OpenOffice Present) in a training context. For one thing, if a trainer is dealing with a mixed-language group of participants (very common in regional and international training workshops), then having a prepared visual presentation to support the lecture can be an effective way to address language differences. Presentations coupled with a lecture also address two learner types: the visual and the auditory learners. This makes for a more effective training session.
+## 投影片控
+為工作坊準備投影片是講師的標準日常，無可否認在訓練中使用投影片有其價值。但如果訓練員面對的是使用不同語言的學員（此情況在區域或國際工作坊常見），那麼在講課時利用視覺輔助的投影資料將可有效地克服語言的差異。通常投影片搭配講課適合二類學習者：視覺與聽覺學習，它們可以傳達更有效的訓練。
 
-However, good trainers know that a PowerPoint (Or OpenOffice Present) -based session can foster an inequality between The Trainer and The Participant. Unlike other presentation tools (i.e., drawing on butcher paper, mind-mapping on flip chart paper), a PowerPoint presentation is all about what the trainer knows and what s/he feels is important on a specific topic for the participants to know. This one-way The Trainer-to-The Participants approach that PowerPoint presentations can imply might eventually be a hindrance to getting the participants to understand concepts and apply them in their own lives, especially in the context of adult learning, where participants bring with them their own experience and expertise.
 
-Generally, the way a PowerPoint-mediated session goes is that the trainer does a presentation, then an 'open forum' is tacked on at the end of the session for participants to ask their questions or provide feedback. This speaks to where the priority of a session lies, and the kind of unequal relationship between The Trainer and The Participants. Overall, this model of teaching is ineffective as it does not facilitate the participants taking control over their learning because it does not prioritize their needs, experiences and realities.
+但好的訓練員也知道，以投影片為主的時段會擴大了學員和訓練員之間的不平等關係。不像其它的簡報工具（畫在紙上，掛報中的心智圖），製作投影片簡報就是在某個主題上，訓練員放入她/他認為學員該知道的重要資訊。這種訓練員給學員的單向式訓練方式，往往最後變成了學員在自身生活中理解安全概念與實際應用的阻礙，尤其對於成人學習而言，學員都是有豐富經驗與專長的大人。
 
-Worse, there are trainers who are really bad at preparing PowerPoint presentations. Those that copy + paste a whole bunch of text (usually from books, papers or project documents!) and expect it to explain concepts. Much worse still, those that read that copy + pasted text in place of doing an interactive session. This type of behavior belongs to the PowerPoint-Freak. It may make teaching easier for the trainer, but it definitely does not make learning easier for the participants.
+一般來說，用投影片上課程的時段，多是先由訓練員用它來做簡報，然後再進行開放討論，讓學員們有機會發問與提供回饋意見。但該時段中所優先強調的東西多少呈現了某種訓練員和學員之間不平等關係。總而言之，這種教學模式若不能促進學員掌控自身的學習則將淪為無效，因為其內容並沒有優先考量學習者的需求、經驗和生活現實。 
+
+更慘的是，如果訓練員準備的投影片又弄得很糟糕。尤其是那種複製貼上書本或文件裏的大量文字，誤以為冗長的文字足以解釋複雜的概念。再者，訓練員僅僅單調無趣地念誦無聊的文字，沒有任何互動。這類行為被稱作「投影片控」。對訓練員而言這種教學或許最為省事，但是絕不會讓學員們覺得學習很有趣。
 <br><br>
 
-### There are ways of preparing PowerPoint (or OpenOffice Present) presentations that can be effective in for participant-based learning:
+### 製作準備投影片時，有些訣竅可以刺激參與式學習：
 
-##### Use Graphics More Than Text
-If you really want to use your presentation to address visual and auditory learner needs, use images on your slides coupled with a spoken lecture. Use text in chunks and sparingly. Presentations are not meant to be read. They are meant to support what you are saying. Don't ever copy a wall of text on your presentation.
+##### 多用圖片勝過文字
+若真要使用投影簡報來介紹強化視覺和聲音上的學習需求，請多利用圖片搭配課程，文字的使用則要盡量節制。投影片不是用來讀的字卡，而是為了協助講者的報告。所以不要複製一大堆文字直接貼在投影片上。
 
-##### Limit your Slides
-7 to 8 slides per presentation should be enough. If you use more than that, it might indicate that you are speaking more than the participants, which is really not ideal for participatory learning.
+##### 節制投影片數量
+一份簡報大約 7 ~ 8 張投影片就足夠了，如果作了太多投影片，這可能顯示出你一個人講了太多，這可不是參與式學習的好方式。
 
-#### End Slides with Questions
-Design your slides so that each ends with a question or questions, so you as the trainer are reminded to stop speaking and let the participants provide feedback or ask questions at each. Use your PowerPoint presentation to facilitate a discussion by ending each slide with questions that you want the participants to discuss.
 
-These are some guidelines, but in general PowerPoint presentations should be kept to a minimum. If you spend more time preparing PowerPoint presentations than you do preparing questions to facilitate discussions, you may want to rethink your strategy. Good trainers must remember that effective teaching methodologies, especially in adult learning, always starts with the participants experience. The ADIDS methodology, which we address in the next module, is a good way to start.
+#### 以問題結束投影片
+製作設計投影片時，最好能以一些問題作為結束，以提醒身為訓練員不要一個人講太多，停下來讓學員們有機會提供回饋意見或提問。利用投影片促進討論，不妨在最後一張投影片上放入一些問題來講學員們接下來可以討論。
+
+作投影片有一些方針，但總體而言，投影片簡報應要維持在最小的數量，如果花太多時間在作投影片而非準備可促進討論的問題，可能就得再好好想想這樣的策略是否正確。好的訓練員須記住「有效的」教學方式，尤其在成人學習上，必須以學員們的經驗做為起點。下一章作介紹討論的 ADIDS 方法，就是一個不錯的起點。
+
 <br><br>
 
-## The Mouse-Dominator
-One of the staples any technical training is the hands-on activity, when participants install and use new software that will enhance their safety.
+## 滑鼠操控狂
+任何技術型訓練最好要安排動手作時段，讓學員們來安裝和使用新軟體以提高其安全。
 
-Every so often, a trainer will get a participant who is not as used to handling a computer as their peers, and this can trigger **Mouse Dominator** behavior. This occurs when the trainer takes over the mouse and *shows* the participant what to do instead of *allowing them to do it themselves*. This approach can easily turn a hands-on activity into a learning barrier, because the participant is left unable to learn by doing.
+訓練員常會碰到，有一兩位學員並不像其它同儕對電腦操作很熟練，而這種情況就容易引發**滑鼠操控狂**行為。這發生在訓練員代為抓起滑鼠以向學員示範操作，而不是讓學員自己來試著動手操作。這樣的作風容易讓動手教學變成了學習障礙，因為學員反而無法有機會真正親手操作。
 
-##### Be patient.
-Not everyone will learn to do things at the same speed. Some folks are more experienced and therefore will be quicker than others; those who are less experienced may feel awkward or powerless if they lose control of their computer. Instead, the trainer should physically stand behind or next to the participant during the hands-on activity, guiding them through the process rather than taking control of the mouse.
+##### 有耐心
+並不是每個人的步調都能一致，有些人經驗豐富因此學習上手快，而資淺者一旦對電腦失去了掌控，可能覺得無力或發生落後。訓練員應該好好在待在學員身旁指導，但不是搶過滑鼠代為操作。
+
 <br><br>
 
-### Here are some tactics to help keep the mouse-domineering behavior at bay:
+### 這裏有些技法或可稍按耐住滑鼠操控狂:
 
-##### Work in Teams
-For hands-on exercises, it’s tremendously beneficial to work in training teams. One trainer stands in front, demonstrating the steps in the exercise, and one or more trainers (or assistant trainers recruited from your organizer or even your participants) provide supportive guidance to the participants as they follow the steps.
+##### 團隊合作
+如果訓練中能夠以小組團隊方式，有益於動手練習。一名訓練員在前示範練習的步驟，而其它訓練員（或是學員當中的助教）可以在一旁提供必要的協助指引學員跟上練習。
 
-##### Define the Steps in the Hands-on Activity 
-List the steps for the hands-on activity on butcher paper, a flip chart or a slide that you can project. In many cases, you will probably need to chunk these steps into task-based activities, and then go through the different chunks one by one.
+##### 設定好動手操作的各個步驟
+先在紙上（或是掛圖，投影片）列出動手操作的步驟。許多情況下，可以需要強調把步驟放入任務型活動，好讓學員們試著一段一段地完成這些步驟。
 
-##### Show, Do, then Check
-Show your participants the steps in an activity before you ask them to replicate them. Using a projector at the front of the room, with additional instructors or helpers at the back, walk through each step and ask the participants if they are with you: Asking “is this what you can see you on your screen?” is a good way to know if everyone is following your demonstration, and if others are falling behind.
+##### 示範、親自動手、檢查
+
+讓學員們親自動手練習之前，先好好地示範每個步驟。可以利用投影機，也安排一些指導員或協助者在旁邊，四處察看學員們是否順利跟上進度：詢問他們在自己的電腦螢幕上看到什麼畫面，以便了解學員們是否有跟上自己的示範或是有人出錯落後了。
+
 <br><br>
 
-## The Fear-Mongerer
-In digital security trainings, sometimes a little bit of fear-mongering can be necessary. Conveying the dangers of the online/digital world can be challenging as the associated risks are largely "virtual" and therefore not seen to be "real" by many people. For example, showing someone how easy it is to hack into a social network account can encourage participants to consider risk and danger in ways that a lecture never could.
+## 恐懼販售者
+數位安全訓練，偶而利用一點恐懼感是必要的。但要網路或線上遇到的（「虛擬」世界）危險往往被許多人不會視之為實際的危險。例如，示範社交平台上帳戶輕易地駭盜，讓學員們體認到講課中無法體驗到的風險和危機。
 
-However, responsible and ethical digital security trainers need to know when to stop. Sometimes fear-mongering is so "effective" that it fosters a feeling of dis-empowerment among trainees - the issue is perceived as 'too big' for them to handle, and therefore paralyses them when it comes to thinking of and practicing solutions.
+不過，負責任與有良心的安全訓練員必須要知道何時喊停。有時候，販售恐懼太過「有效」地增長了學員們無力感，遂把一些問題視為太過龐大是自己無法掌控，因此在思考與實踐時反而變得麻木無所謂。
 <br><br>
 
-### Here are some ways to responsibly convey online/digital risks to trainees:
+### 訓練員可以利用一些方式來傳達線上數位風險:
 
-##### Contextualized Storytelling
-An effective way to meaningfully convey the dangers of risky digital behavior to participants is to tell stories or case studies from experiences of other activists groups who have been put at risk because of their insecure online communications and practices. This kind of contextualized, experience-based (whether their own or others') awareness-raising for online security issues can be really effective in getting participants to take lessons and training seriously.
+##### 符合情境的說故事方法
+有效果且具意義地向學員傳達危險的數位行為，較好的方式應是採用故事或是案例研究----到底別人或別的團體如何在網路上使用了不安全通訊。若把這類案例情境化，依照不同的經驗以提高學員們的線上安全感，這樣可以有效地讓學員學到教訓與認真應對訓練內容。 
 
-##### Always have a Solution
-A good rule of thumb for digital security trainers is for every fear you inspire, *always* have at least one solution or strategy that participants can employ to mitigate or address that fear. If the risk being discussed does not have a technical solution, be prepared to discuss "offline" or "physical" strategies and tactics that participants can master and practice instead. In cases where there are both "online" and "offline" strategies to recommend, discuss both - examples of "offline" strategies are effective for making sometimes daunting digital threats more relatable and therefore manageable.
+##### 還是要能提供決解方案
+優秀的數位安全訓練員能夠對於所引發的恐懼問題，至少都有一套應對解決策略，以減輕學員們的恐懼。如果所討論的危險最終沒能找出技術上的解決方案，不妨準備一點讓學員可以大顯身手的「離線」或「實體」策略、戰法。如果同時有推薦的「線上」與「離線」策略，兩者都好好地加以討論，某些情況下「離線」策略或許可以有效地減少數位安全威脅，也更好管理。
 
-A good trainer never wants to scare participants to the point that the only solution they can think of is to disconnect from the internet entirely - *that's not the point of digital security trainings!* The point is to make them aware of the risks so they can be conscious and conscientious when it comes to their online communications and technology use practices.
+優秀的訓練員絕不會嚇跑學員，讓人誤以為只有完全遠離網路才是最安全的作法。*這根本不是數位訓練的目標！*重點乃是讓他們能夠意識到這些風險，因為具備這樣的意識自覺，故能在使用線上通訊與科技時可以小心謹慎。
 <br><br>
 
-## The Monologuer
-Monologues are, if we count lectures, a normal part of training. Trainers are asked to speak about specific topics because they are knowledgeable on those topics; however, sometimes a trainer becomes so comfortable lecturing (or monologue-ing) that they become ineffective in actually *teaching* that topic. When a training becomes dominated by trainer monologue, trainees' inability to be active participants in their own learning process leads to  disengagement from, and even disillusionment in, the trainer.
+## 獨角戲
+如果把講課算進去，獨角戲是也正常訓練中的一環。因為熟知某些主題，訓練員被要求來講課。有時訓練員比較喜愛使用講課（一人獨角戲），但這樣卻易變成無法有效地真正**傳授**該題目。當一場訓練變成了由訓練員自說自話的獨角戲，學員們無法主動地參與在此學習過程中，將導致他們無法好好投入，甚至對這場訓練有幻滅的想法。
 
-### So, how can a trainer maintain the right balance of monologue and participation during a training?
+### 訓練中，要如何維持獨角戲與互動參與二者間的適當平衡呢？
 
-##### Prepare to Stop Before you Start
-Outline your lecture in such a way where you know at which points to stop and ask questions from the participants. See **The Powerpoint-Freak** section above for some tips on how to build these stops into the lecture portion of your session(s).
+##### 開始之前先對何時打住作好準備
+掌握講課的大綱，知道在何時可能要停下來，讓學員有機會提問。請見**投影片控**部份，尋求在訓練中如何建立適當暫停點的竅門。
 
-##### Be OK with Being Interrupted
-Keeping yourself from the monologuer behavior is more than what you do *during* a training. At the start of your training, you need to negotiate with the participants about acceptable behavior during the event. Let them know that it is **not** acceptable for *you* to be speaking the entire time, and ask them to interrupt you when they feel that they no longer have the bandwidth or attention span to listen to more.
+##### 被打斷干擾也沒關係
+避免陷入自說自話一人表演的狀況，這其實和訓練員作了什麼行為有關。訓練一開始，就必須和學員溝通好，活動中可以被接受的行為，讓他們知道你也**無法**容忍訓練員一人從頭講到尾，請他們在無法專注或耐心聽取上課內容時，直接打斷課程吧。
 
-##### Be Aware of the Room
-Try to 'read' the energy level of participants. This is not an exact science, but rather an art based on experience. The more you train, the better you get at feeling the room. If you sense the energy in the room is low, and the participants are not paying attention, address it and do something about it by either taking a quick break or doing an energizer activity.
+##### 觀察留意教室內的情況
+試著「解讀」學員們的能量程度，這並不是準確的科學，而是基於過往的經驗。經歷越多的訓練場合，就越能掌握教室中的氛圍。如果察覺教室現場的能量低迷，學員們無法集中專注，可以試著利用短暫的休息或是增能來做點改善。
 <br><br>
 
-### So, what are some indicators of low energy?
+### 哪些狀況暗示了能量低迷呢？
 
-##### Lots of Nodding Heads
-This may not be an indicator of the participants agreeing with everything you are saying. This may be an indicator that they have stopped paying attention, and are only nodding because they don't want you to know that they've stopped paying attention. To check, you can ask the ones who are nodding their heads a question that will show you if they are paying attention. If they are stumped, chances are they have not been paying attention.
+##### 學員僅頻頻點頭
+學員頻頻點頭不一定表示他們同意訓練員講的每一件事。它反而可能暗示學員們已無法專注，希望以點頭好讓訓練員無從知道他們已心不在焉。不妨詢問某位點頭的學員一道問題，好知道他們是否真得有集中專心。如果他們被難倒，很可能是因為未能專心在訓練上。
 
-##### Distracted Behavior
-Feet tapping, pen tapping, hair fixing, nail checking. This behavior lets you know that people are not really paying attention.
+##### 注意力渙散的行為
+點腳尖、摸筆、玩頭髮、指甲....這些動作反應出學員並沒有專心留意上課內容。
 
-If you recognize any of these indicators, you should stop and ask questions. If you are not recognizing these indicators, it's always a good idea any way to ask the participants “how are we feeling? do we need a break?”.
+如果認出有這些徵兆，應該停下來並問問題。如果查察不出這些徵兆，最好的方式是詢問學員「你們覺得如何，是否需要休息喘口氣？」
 <br><br>
 

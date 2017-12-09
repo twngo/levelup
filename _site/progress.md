@@ -1,14 +1,14 @@
 ## 1. you the trainer
-### be a better trainer
+### be a better trainer （Ｏ）
 ### first 3 sessions of your event
- - developing-a-shared-brain
- - developing-shared-agreements
- - sharing-your-story
+ - developing-a-shared-brain （Ｏ）
+ - developing-shared-agreements （Ｏ）
+ - sharing-your-story （V）
 ### golden rules of effective training　（Ｏ）
-### how to handle surprises during training　
+### how to handle surprises during training（Ｏ）
 ### ice breakers and energizers
 ### roles and responsibilities of a digital security trainer　 （Ｏ）
-### setting expectations for participants organizers and yourself （V）
+### setting expectations for participants organizers and yourself （Ｏ）
 
 ## 2. before an event （Ｏ）
 

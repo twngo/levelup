@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "LevelUp 中文網站暫告段落"
+date:   2017-12-09 18:32:25 +0800
+categories: levelup update
+---
+
+二個月前「默默地宣佈」了 Level-Up 數位安全訓練員教材中文版的上線，當時自我承諾著，希望能在今年年底之前，能完成 1,2,4,5，留下了重中之重的 curriculum，畢竟課程內容與技術實際操作的部份，往往會隨著時間、科技等等因素快速變化，一人難以趕得上此番變化，也只能留得其它有心人來接力囉。（如果沒有，那就這樣吧～～灑花謝幕）
+
+本專案源起介紹：
+2016 [數位安全訓練員教材中文化初稿](http://self.jxtsai.info/2016/08/level-up.html)
+2017 [LevelUp 中文網站上線](https://blog.jxtsai.info/2017/09/30/levelup/)
+
+**1. you the trainer （Ｏ）** 
+
+**2. before an event （Ｏ）** 
+
+
+**3. curriculum**
+- malware protection
+  - safer software updating (ADIDS)
+  - using antivirus tools (ADIDS)
+- mobile safety
+  - how mobile networks work (ADIDS)
+- protecting data
+  - creating and managing strong passwords (ADIDS)
+  - data backup basics (ADIDS) 
+- safer browsing
+  - anonymity and circumvention (ADIDS)
+  - https ssl (ADIDS) 
+  - identity protection privacy (ADIDS)
+- safer communication
+  - pgp gpg email encryption (ADIDS)
+- safer workspaces
+  - Tails (ADIDS)
+- social media safety （V）
+ - social media safety awareness (ADIDS)
+
+**4. after an event （Ｏ）**
+
+**5. community （Ｏ）**
+
+畫（Ｏ）的部份完成中文初稿。
+
+
+

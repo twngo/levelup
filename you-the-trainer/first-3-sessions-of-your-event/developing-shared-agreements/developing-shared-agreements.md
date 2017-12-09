@@ -1,40 +1,40 @@
 ---
 layout: content-page
-title: 發展共享協議
+title: 發展共同協議
 permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-shared-agreements/
 author: Chris Michael
-summary: "When working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”"
+summary: "與成年人一起學習時，主持人要尊重每位學員的經歷、專長和自主能力。協助學員建立工作協議好讓團隊能好好一起合作協力。不妨靠大家共同的投入貢獻來完成此共同協議，而不是自定一套規則。雖然它常被叫作「基本規則」，但我們這裏把它叫做「共同協議」。"
 date: 2016-03
-parent: The First 3 Sessions of Your Event
-breadcrumb: Developing Shared Agreements
+parent: 訓練活動的前三個時段
+breadcrumb: 發展共同協議
 ---
 ##### 請留意，本文版權者為（歸功於)[Tactical Tech](https://www.tacticaltech.org) 的 Chris Michael 而不是 LevelUp，需在文末標明為相同的 Creative Commons license-類別授權。
 
 #### 我們都曾經過過一些痛若的會議，一個人講過一遍又接著另一個人，或是講課時有旁人在私語令人分神，是吧？
-Note to participants that your role as a facilitator is to help the group maximizes its time in order to reach its shared objectives. Along the way, your job is to keep activities on track and on time, making sure everyone is fully engaged and participating in the ways they are most comfortable.
+讓學員知道：主持人的角色是協助這個團體充份利用時間達成共享的目標。你的工作是讓活動準時進行，確保每個人能完全地投入，以其最適應的方式參與訓練。
 
-## 建立共享協議
-Since it is their time, ask participants what agreements would they like to make to each other for the benefit of the group and of the gathering. Naturally, a few will come up, such as no talking over other people or no phones; however, you should plan the ultimate list in advance so you can fill in any gaps that may not arise from within the group.
+## 建立共同協議
+既然時間是大家的時間，請學員討論希望彼此能達成什麼共同協議，有益於整個團體與這場聚會。自然而然地，會出現一些共識，例如訓練當中不要講話閒聊或是打電話。訓練員應事先規劃一份最終清單，以便填補團體討論未被提出的遺漏之處。　
 
-Once you have a full list assembled, including any essential agreements from your own list, ask everyone to raise their hand if they agree with the final result — review each agreement one by one, and take your time. If there are any dissenting voices, facilitate a conversation where perspectives are heard and adapt agreements accordingly as the group desires.
+一旦快完成（其中包括訓練員所列出的）共同協議清單時，讓學員有機會表達意見，是否同意此最後成果。花點時間，一條一條來檢視。如果出現不同意見，以對話促進不同觀點被聽見，再依照團體的期望作出應變。
 
-## 擅用共享協議
-Hang the final list of agreements prominently on a wall that everyone can see, and keep them up for the duration of the event. Ask participants to determine what the consequences will be if one breaks an agreement (ex: someone who breaks an agreement could go last in line for lunch, have to dance or sing to the group for 30 seconds, or clean up the room at the end of a session).
+## 善用共同協議
+把最後的協議清單掛在牆上明顯之處，好讓每個人都可看到，活動期間就讓它一直掛在那裏。詢問學員，請他們決定：如果有人破壤了協議的規則，會有什麼下場（例如有人若違反規則，則午餐要排最後、為大家唱首歌或表演娛樂、負責教室清潔整理等）
 
-Once you have the shared agreements, you will be able to refer to them to celebrate great behavior, and likewise if disruptive behavior becomes a problem. Instead of focusing on the individual, you can reference the agreement to start a conversation with the group. If issues persist, you may want to talk to disruptive participants in private to see if they’re aware of their behavior and can commit to correcting it.
+一旦有了共同的協議，訓練員可以引用它來鼓勵良好的行為，也能用來警告破壞行為。與其關注在個別行為，不妨利用共同協議來啟動團體之間的對話。如果問題一直沒改善，則可能需要直接和搗亂的學員私下交談，看看他們是否意識到行為上的問題並願意試著修正。
 <br><br>
 
-## 共享協議的方針
+## 共同協議的方針
 
-### To facilitate your own discussion with the group on shared agreements, note that they should address the following general themes:
-- Tardiness, and what time sessions start and end
-- Paying attention during sessions
-- Security of everyone in the training
-- No checking email or posting to social networks during sessions
-- Turning off mobile phones or setting them to silent
-- How participants should indicate they have questions
-- How everyone treats each other during sessions (with respect)
-- Ensuring full participation from everyone
+### 促進團體討論共同協議，提醒他們應談及以下相關的課題：　
+- 遲到問題，何時開始何時結束
+- 上課期間保持專注
+- 訓練期間每個人的安全
+- 訓練時不要檢查郵件或在社交媒體上貼文
+- 關閉手機或調成震動靜音
+- 有問題要如何提出
+- 對待別人的方式（保持敬意）　
+- 確保人人充份參與
 <br><br>
 
 ##### 請留意，本文版權者為（歸功於)[Tactical Tech](https://www.tacticaltech.org) 的 Chris Michael 而不是 LevelUp，需在文末標明為相同的 Creative Commons license-類別授權。
